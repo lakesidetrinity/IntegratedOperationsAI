@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+easyocr
+pdf2image
+Pillow
+torch
+pandas
+numpy
+python-docx
+reportlab
+scikit-learn
